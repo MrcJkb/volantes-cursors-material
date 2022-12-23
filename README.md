@@ -1,8 +1,11 @@
 # [WIP] Volantes Cursors [Material]
 
-### Install build version
+Fork of [Volantres Cursors](https://github.com/varlesh/volantes-cursors) with the [Material colour palette](https://material-theme.com/).
 
-https://www.pling.com/p/1356095/
+### Material Theme Variants
+
+* Material Darker
+* Material Lighter
 
 ### Manual Install
 
