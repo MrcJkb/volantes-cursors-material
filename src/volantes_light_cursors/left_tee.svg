@@ -13,7 +13,7 @@
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -50,11 +50,11 @@
   </defs>
   <path
      id="path1314"
-     style="color:#000000;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1977);opacity:0.2"
+     style="color:#212121;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1977);opacity:0.2"
      d="m 25.5,16.5 a 1.0001,1.0001 0 0 1 -1,1 h -15 v 7 a 1.0001,1.0001 0 0 1 -1,1 h -1 a 1.0001,1.0001 0 0 1 -1,-1 v -8 -1 -8 a 1.0001,1.0001 0 0 1 1,-1 h 1 a 1.0001,1.0001 0 0 1 1,1 v 7 h 15 a 1.0001,1.0001 0 0 1 1,1 z" />
   <path
      id="path1133"
-     style="color:#000000;fill:#232627;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#212121;fill:#232627;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 25,16 a 1.0001,1.0001 0 0 1 -1,1 H 9 v 7 A 1.0001,1.0001 0 0 1 8,25 H 7 A 1.0001,1.0001 0 0 1 6,24 V 16 15 7 A 1.0001,1.0001 0 0 1 7,6 h 1 a 1.0001,1.0001 0 0 1 1,1 v 7 h 15 a 1.0001,1.0001 0 0 1 1,1 z" />
   <path
      id="rect817"

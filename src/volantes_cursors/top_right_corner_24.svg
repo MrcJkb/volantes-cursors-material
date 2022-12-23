@@ -11,11 +11,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <path
-     style="color:#000000;opacity:0.1;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1133)"
+     style="color:#212121;opacity:0.1;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1133)"
      d="m 20.485958,20.5 a 1.0001,1.0001 0 0 0 1,-0.986328 v -14.25 -0.75 a 1.0001,1.0001 0 0 0 -1,-1 h -0.75 -14.2500005 a 1.0001,1.0001 0 0 0 0,2 c 7.7438245,-10e-7 14.0000015,6.256176 14.0000005,14 a 1.0001,1.0001 0 0 0 1,0.986328 z m -1,-8.572266 C 18.007286,9.210422 15.789208,6.992344 13.071895,5.513672 h 6.414063 z"
      id="path1095" />
   <path
-     style="color:#000000;fill:#efefef;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#212121;fill:#efefef;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 19.985958,20 a 1.0001,1.0001 0 0 0 1,-0.986328 v -14.25 -0.75 a 1.0001,1.0001 0 0 0 -1,-1 h -0.75 -14.2500005 a 1.0001,1.0001 0 0 0 0,2 c 7.7438245,-10e-7 14.0000015,6.256176 14.0000005,14 a 1.0001,1.0001 0 0 0 1,0.986328 z m -1,-8.572266 C 17.507286,8.710422 15.289208,6.492344 12.571895,5.013672 h 6.414063 z"
      id="path1126" />
   <path
@@ -25,7 +25,7 @@
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"

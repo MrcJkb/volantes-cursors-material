@@ -13,7 +13,7 @@
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -71,11 +71,11 @@
     </filter>
   </defs>
   <path
-     style="color:#000000;opacity:0.1;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter7666)"
+     style="color:#212121;opacity:0.1;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter7666)"
      d="m 20.485958,3.5136719 a 1.0001,1.0001 0 0 1 1,0.9863281 v 14.25 0.75 a 1.0001,1.0001 0 0 1 -1,1 h -0.75 -14.2500005 a 1.0001,1.0001 0 0 1 0,-2 c 7.7438245,1e-6 14.0000005,-6.256176 14.0000005,-14 a 1.0001,1.0001 0 0 1 1,-0.9863281 z m -1,8.5722661 C 18.007286,14.80325 15.789208,17.021328 13.071895,18.5 h 6.414063 z"
      id="path7628" />
   <path
-     style="color:#000000;fill:#232627;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#212121;fill:#232627;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 19.985958,3.0136719 A 1.0001,1.0001 0 0 1 20.985958,4 V 18.25 19 a 1.0001,1.0001 0 0 1 -1,1 h -0.75 -14.2500005 a 1.0001,1.0001 0 0 1 0,-2 c 7.7438245,1e-6 14.0000005,-6.256176 14.0000005,-14 a 1.0001,1.0001 0 0 1 1,-0.9863281 z m -1,8.5722661 C 17.507286,14.30325 15.289208,16.521328 12.571895,18 h 6.414063 z"
      id="path1126" />
   <path

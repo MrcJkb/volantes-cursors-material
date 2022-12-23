@@ -11,11 +11,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <path
-     style="color:#000000;opacity:0.1;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter954)"
+     style="color:#212121;opacity:0.1;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter954)"
      d="m 20.499965,11.498204 a 1.0001,1.0001 0 0 0 -1,-1 H 11.740199 C 11.952741,9.535289 12.274848,8.668227 12.730434,8.1817957 A 1.0001,1.0001 0 0 0 11.486293,6.6407801 L 3.9862931,11.136876 a 1.0001,1.0001 0 0 0 -0.002,1.714844 l 7.4999999,4.503906 a 1.0001,1.0001 0 0 0 1.244188,-1.542969 c -0.455064,-0.483449 -0.776086,-1.350796 -0.988282,-2.314453 h 7.759766 a 1.0001,1.0001 0 0 0 1,-1 z M 9.8105121,9.9767176 c -0.145436,0.6574224 -0.311018,1.3100594 -0.310547,2.0175804 4.74e-4,0.707075 0.163741,1.3625 0.308594,2.021484 l -3.365235,-2.021484 z"
      id="path916" />
   <path
-     style="color:#000000;fill:#232627;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     style="color:#212121;fill:#232627;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 19.999966,10.998204 a 1.0001,1.0001 0 0 0 -1,-1 H 11.2402 C 11.452742,9.035291 11.774849,8.168229 12.230435,7.6817977 A 1.0001,1.0001 0 0 0 10.986294,6.1407821 l -7.5,4.4960939 a 1.0001,1.0001 0 0 0 -0.002,1.714844 l 7.5,4.503906 a 1.0001,1.0001 0 0 0 1.244188,-1.542969 C 11.773418,14.829208 11.452396,13.961861 11.2402,12.998204 h 7.759766 a 1.0001,1.0001 0 0 0 1,-1 z M 9.310513,9.4767196 C 9.165077,10.13414 8.999495,10.786777 8.999966,11.494298 c 4.74e-4,0.707075 0.163741,1.3625 0.308594,2.021484 L 5.943325,11.494298 Z"
      id="path1441" />
   <path
@@ -25,7 +25,7 @@
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"

@@ -12,16 +12,16 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <path
      id="path1455"
-     style="color:#000000;opacity:0.1;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1593)"
+     style="color:#212121;opacity:0.1;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1593)"
      d="m 11.5,4.5 a 1.0001,1.0001 0 0 0 -1,1 v 11 h -5 a 1.0001,1.0001 0 0 0 -1,1 v 1 a 1.0001,1.0001 0 0 0 1,1 h 6 1 6 a 1.0001,1.0001 0 0 0 1,-1 v -1 a 1.0001,1.0001 0 0 0 -1,-1 h -5 v -11 a 1.0001,1.0001 0 0 0 -1,-1 z" />
   <path
      id="path1153"
-     style="color:#000000;fill:#232627;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+     style="color:#212121;fill:#232627;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
      d="M 11 4 A 1.0001 1.0001 0 0 0 10 5 L 10 16 L 5 16 A 1.0001 1.0001 0 0 0 4 17 L 4 18 A 1.0001 1.0001 0 0 0 5 19 L 11 19 L 12 19 L 18 19 A 1.0001 1.0001 0 0 0 19 18 L 19 17 A 1.0001 1.0001 0 0 0 18 16 L 13 16 L 13 5 A 1.0001 1.0001 0 0 0 12 4 L 11 4 z " />
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"

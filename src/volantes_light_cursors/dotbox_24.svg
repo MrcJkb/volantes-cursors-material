@@ -11,11 +11,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <path
-     style="color:#000000;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1661);opacity:0.1"
+     style="color:#212121;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1661);opacity:0.1"
      d="m 5.5,4.5 a 1.0001,1.0001 0 0 0 -1,1 v 1 12 a 1.0001,1.0001 0 0 0 1,1 h 1 11 1 a 1.0001,1.0001 0 0 0 1,-1 v -1 -11 -1 a 1.0001,1.0001 0 0 0 -1,-1 h -1 -11 z m 2,3 h 3 v 1 a 1.0001,1.0001 0 0 0 1,1 h 1 a 1.0001,1.0001 0 0 0 1,-1 v -1 h 3 v 3 h -1 a 1.0001,1.0001 0 0 0 -1,1 v 1 a 1.0001,1.0001 0 0 0 1,1 h 1 v 3 h -3 v -1 a 1.0001,1.0001 0 0 0 -1,-1 h -1 a 1.0001,1.0001 0 0 0 -1,1 v 1 h -3 v -3 h 1 a 1.0001,1.0001 0 0 0 1,-1 v -1 a 1.0001,1.0001 0 0 0 -1,-1 h -1 z"
      id="path1641" />
   <path
-     style="color:#000000;fill:#232627;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+     style="color:#212121;fill:#232627;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
      d="M 5,4 A 1.0001,1.0001 0 0 0 4,5 v 1 12 a 1.0001,1.0001 0 0 0 1,1 h 1 11 1 a 1.0001,1.0001 0 0 0 1,-1 V 17 6 5 A 1.0001,1.0001 0 0 0 18,4 H 17 6 Z m 2,3 h 3 v 1 a 1.0001,1.0001 0 0 0 1,1 h 1 A 1.0001,1.0001 0 0 0 13,8 V 7 h 3 v 3 h -1 a 1.0001,1.0001 0 0 0 -1,1 v 1 a 1.0001,1.0001 0 0 0 1,1 h 1 v 3 h -3 v -1 a 1.0001,1.0001 0 0 0 -1,-1 h -1 a 1.0001,1.0001 0 0 0 -1,1 v 1 H 7 V 13 H 8 A 1.0001,1.0001 0 0 0 9,12 V 11 A 1.0001,1.0001 0 0 0 8,10 H 7 Z"
      id="path1481" />
   <path
@@ -25,7 +25,7 @@
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"

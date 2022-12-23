@@ -14,7 +14,7 @@
   <sodipodi:namedview
      id="namedview23"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -116,12 +116,12 @@
   </defs>
   <path
      id="path1439"
-     style="color:#000000;opacity:0.1;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1480)"
+     style="color:#212121;opacity:0.1;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1480)"
      d="m 2.4863332,0.5 c -0.1292538,0.00349 -0.2566044,0.0320113 -0.375,0.0839844 C 1.7464786,0.7425084 1.5102662,1.1021954 1.5097707,1.5 l -0.00977,15 c -0.00133,1.135813 1.5912079,1.394321 1.9492188,0.316406 0.6618472,-1.985528 2.225936,-3.774533 3.7168012,-4.570312 C 8.1069794,11.767936 9.0955806,11.506175 10.005864,11.5 c 0.897165,-0.0061 1.775602,0.233292 2.523438,0.632812 1.034525,0.555712 2.014452,-0.817846 1.152344,-1.615234 L 3.1914113,0.76757812 C 3.0003073,0.58979475 2.7472716,0.49376736 2.4863332,0.5 Z"
      sodipodi:nodetypes="ccccccccccc" />
   <path
      id="path1725"
-     style="color:#000000;fill:#232627;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+     style="color:#212121;fill:#232627;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
      d="M 1.9863281 0 A 1.0001 1.0001 0 0 0 1.6113281 0.083984375 A 1.0001 1.0001 0 0 0 1.0097656 1 L 1 16 A 1.0001 1.0001 0 0 0 2.9492188 16.316406 C 3.6110617 14.330878 5.1751504 12.541873 6.6660156 11.746094 C 7.6069743 11.267936 8.5955755 11.006175 9.5058594 11 C 10.403024 10.9939 11.281461 11.233291 12.029297 11.632812 A 1.0001 1.0001 0 0 0 13.181641 10.017578 L 2.6914062 0.26757812 A 1.0001 1.0001 0 0 0 1.9863281 0 z " />
   <path
      id="path823"

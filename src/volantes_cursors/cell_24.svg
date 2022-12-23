@@ -13,7 +13,7 @@
   <sodipodi:namedview
      id="namedview11"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#c5c8c6"
      borderopacity="1.0"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -67,11 +67,11 @@
     </filter>
   </defs>
   <path
-     style="color:#000000;opacity:0.1;fill:#000000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1379)"
+     style="color:#212121;opacity:0.1;fill:#212121;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;filter:url(#filter1379)"
      d="m 11.5,4.5 a 1.0001,1.0001 0 0 0 -1,1 v 5 h -5 a 1.0001,1.0001 0 0 0 -1,1 v 1 a 1.0001,1.0001 0 0 0 1,1 h 5 v 5 a 1.0001,1.0001 0 0 0 1,1 h 1 a 1.0001,1.0001 0 0 0 1,-1 v -5 h 5 a 1.0001,1.0001 0 0 0 1,-1 v -1 a 1.0001,1.0001 0 0 0 -1,-1 h -5 v -5 a 1.0001,1.0001 0 0 0 -1,-1 z"
      id="path1341" />
   <path
-     style="color:#000000;fill:#efefef;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+     style="color:#212121;fill:#efefef;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
      d="m 11,4 a 1.0001,1.0001 0 0 0 -1,1 v 5 H 5 a 1.0001,1.0001 0 0 0 -1,1 v 1 a 1.0001,1.0001 0 0 0 1,1 h 5 v 5 a 1.0001,1.0001 0 0 0 1,1 h 1 a 1.0001,1.0001 0 0 0 1,-1 v -5 h 5 a 1.0001,1.0001 0 0 0 1,-1 V 11 A 1.0001,1.0001 0 0 0 18,10 H 13 V 5 A 1.0001,1.0001 0 0 0 12,4 Z"
      id="path1281" />
   <path
