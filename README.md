@@ -18,7 +18,7 @@ Fork of [Volantres Cursors](https://github.com/varlesh/volantes-cursors) with th
 
 2. Run the following commands as normal user:
 
-    ```
+    ```console
     git clone https://github.com/varlesh/volantes-cursors.git
     cd volantes-cursors
     make build

@@ -59,6 +59,7 @@ convert_to_x11cursor() {
 	for config in "$CONFIG_DIR"/*.cursor; do
 		[ -f "$config" ] || continue
 		base_name="$(basename "$config" .cursor)"
+    echo "Generating $out_dir/$base_name..."
 		xcursorgen -p "$src_dir" "$config" "$out_dir/$base_name"
 	done
 	echo -e "Generating cursor theme... DONE"
