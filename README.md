@@ -2,10 +2,13 @@
 
 Fork of [Volantres Cursors](https://github.com/varlesh/volantes-cursors) with the [Material colour palette](https://material-theme.com/).
 
-### Material Theme Variants
+### Variants
 
-* Material Darker
-* Material Lighter
+| Cursor theme                     | Material variant  |
+|----------------------------------|-------------------|
+| Volantes Material Cursors        | Material Darker   |
+| Volatntes Material Cursors Light | Material Lighter  |
+
 
 ### Manual Install
 
