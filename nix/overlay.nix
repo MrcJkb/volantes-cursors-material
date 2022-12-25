@@ -37,6 +37,7 @@ let
         if [ "$output" != "out" ]; then
           local outputDir="''${!output}"
           local iconsDir="$outputDir/share/icons"
+          echo "Installing $output to $iconsDir"
           mkdir -p "$iconsDir"
           local variant="$output"
           cp -r "./dist/$variant" "$iconsDir"
