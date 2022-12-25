@@ -6,8 +6,8 @@ Fork of [Volantres Cursors](https://github.com/varlesh/volantes-cursors) with th
 
 | Cursor theme                     | Material variant  |
 |----------------------------------|-------------------|
-| Volantes Material Cursors        | Material Darker   |
-| Volatntes Material Cursors Light | Material Lighter  |
+| Volantes Material Dark           | Material Darker   |
+| Volantes Material Light          | Material Lighter  |
 
 
 ### Manual Install
