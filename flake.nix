@@ -50,10 +50,7 @@
         };
     in
     {
-      overlays = {
-        inherit overlay;
-        default = overlay;
-      };
+      inherit overlay;
 
       devShells = perSystem (system: rec {
         default = devShell;
