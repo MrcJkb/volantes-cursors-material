@@ -1,8 +1,6 @@
 final: prev:
 
 let
-  variants = [ "volantes_cursors" "volantes_light_cursors" ];
-
   volantes-cursors-material = final.stdenvNoCC.mkDerivation {
 
     pname = "volantes-cursors-material";
@@ -10,11 +8,10 @@ let
 
     src = ../.;
 
-    outputs = variants ++ [ "out" ];
-
     outputsToInstall = [ ];
 
     nativeBuildInputs = with final; [
+      gtk3
       inkscape
       xorg.xcursorgen
     ];
@@ -31,20 +28,18 @@ let
       export HOME="$NIX_BUILD_ROOT"
     '';
 
+    postFixup = ''
+      gtk-update-icon-cache $out/share/icons/volantes_cursors
+      gtk-update-icon-cache $out/share/icons/volantes_light_cursors
+    '';
+
     installPhase = ''
       runHook preInstall
-      for output in $outputs; do
-        if [ "$output" != "out" ]; then
-          local outputDir="''${!output}"
-          local iconsDir="$outputDir/share/icons"
-          echo "Installing $output to $iconsDir"
-          mkdir -p "$iconsDir"
-          local variant="$output"
-          cp -r "./dist/$variant" "$iconsDir"
-        fi
-      done
-      # Needed to prevent breakage
-      mkdir -p "$out"
+      local iconsDir="$out/share/icons"
+      mkdir -p "$iconsDir"
+      ls "./dist"
+      cp -r "./dist/volantes_cursors" "$iconsDir"
+      cp -r "./dist/volantes_light_cursors" "$iconsDir"
       runHook postInstall
     '';
 
