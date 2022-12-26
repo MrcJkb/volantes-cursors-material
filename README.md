@@ -91,8 +91,8 @@ A reboot may be necessary for the changes to take effect.
 2. Run the following commands as normal user:
 
     ```console
-    git clone https://github.com/varlesh/volantes-cursors.git
-    cd volantes-cursors
+    git clone git@github.com:MrcJkb/volantes-cursors-material.git
+    cd volantes-cursors-material
     make build
     sudo make install
     ```
