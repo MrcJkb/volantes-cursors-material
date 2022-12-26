@@ -75,6 +75,8 @@ environment.sessionVariables = {
 };
 ```
 
+A reboot may be necessary for the changes to take effect.
+
 ### Manual Install
 
 1. Install dependencies:
