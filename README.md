@@ -1,5 +1,7 @@
 # Volantes Cursors [Material]
 
+[![Nix build](https://github.com/MrcJkb/volantes-cursors-material/actions/workflows/nix-build.yml/badge.svg)](https://github.com/MrcJkb/volantes-cursors-material/actions/workflows/nix-build.yml)
+
 Fork of [Volantres Cursors](https://github.com/varlesh/volantes-cursors) with the [Material colour palette](https://material-theme.com/).
 
 ![screenshot](https://user-images.githubusercontent.com/12857160/209580520-ff5de329-d3b8-485b-9552-f389f7ccd76c.png)
