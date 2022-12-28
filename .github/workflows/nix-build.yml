@@ -3,7 +3,7 @@ on:
   pull_request:
   push:
 jobs:
-  checks:
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3.0.2
@@ -12,7 +12,7 @@ jobs:
       with:
         name: mrcjkb
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
-    - run: nix flake check --print-build-logs
+    - run: nix build -L
 
   shell:
     runs-on: ubuntu-latest
@@ -23,4 +23,4 @@ jobs:
       with:
         name: mrcjkb
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
-    - run: nix build .#devShells.x86_64-linux.default --print-build-logs
+    - run: nix build .#devShells.x86_64-linux.default -L
