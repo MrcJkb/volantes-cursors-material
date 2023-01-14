@@ -93,7 +93,7 @@ A reboot may be necessary for the changes to take effect.
 2. Run the following commands as normal user:
 
     ```console
-    git clone git@github.com:MrcJkb/volantes-cursors-material.git
+    git clone git@github.com:mrcjkb/volantes-cursors-material.git
     cd volantes-cursors-material
     make build
     sudo make install
